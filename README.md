@@ -8,7 +8,6 @@ const keyword has block level of scope and varaible declared with const keyword 
 - const a= 10;
 -const b="musanif"
 
-
 ## Git commands
 
 ### VS code to Stage Area
